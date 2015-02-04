@@ -223,7 +223,7 @@ if __name__ == '__main__':
 ```
 
 ####Secondary Test Code and Implementation (Revised) (Passing Test)
-Rewritten secondary code and test code to comply with aforementioned edge cases. Also changed the return of `False` to ` ValueError` and `TypeError` for future specificity and debugging purposes. 
+Rewritten secondary code and test code to comply with aforementioned edge cases. Also changed the return of `False` to `TypeError` for future specificity and debugging purposes. 
 
 *finaltestcode.py*
 ```python
