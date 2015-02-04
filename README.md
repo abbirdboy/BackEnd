@@ -286,4 +286,6 @@ if __name__ == '__main__':
         
 ```
 
+### Additional Comments 
+With more time, I would have looked at ways to refractor the code further. Since I've been programming heavily in Ruby (RoR) the last several months, I don't know the Python3 library nearly as well. I hope continued practice with Python will improve my ability to produce concise but meaningful code. 
 
